@@ -63,7 +63,7 @@ The training and validation loss the model for sentiments (for sentiments on sca
 
 ![](train_valid_label_loss_5.png)
 
-The training and validation accuracy the model for sentiment (for sentiments on scale 0-4):
+The training and validation accuracy the model for sentiments (for sentiments on scale 0-4):
 
 ![](train_valid_label_accuracy_5.png)
 
