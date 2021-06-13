@@ -53,17 +53,17 @@ Epoch 40 | Time Taken: 2.35s
 	 Val. Loss  5 labels: 1.574 |  Val. Acc  5 labels: 30.85%
 	 
 ```
-As we can see, the model for sentiments [0-5] starts from 27.73% validation accuracy and 1.574 validation loss which by 40th epoch is:  Val. Loss: 1.574 |  Val. Acc: 30.85%
+As we can see, the model for sentiment [0-4] starts from 27.73% validation accuracy and 1.574 validation loss which by 40th epoch is:  Val. Loss: 1.574 |  Val. Acc: 30.85%
 
 
 ## Results: Accuracy, Loss
 Post training our model for sentiments' labels [0-4], we get a training accuracy of 86.57% and a validation accuracy of 30.85%
 
-The training and validation loss the model for sentiments_5 (for sentiments on scale 0-4):
+The training and validation loss the model for sentiments (for sentiments on scale 0-4):
 
 ![](train_valid_label_loss_5.png)
 
-The training and validation accuracy the model for sentiments_5 (for sentiments on scale 0-4):
+The training and validation accuracy the model for sentiment (for sentiments on scale 0-4):
 
 ![](train_valid_label_accuracy_5.png)
 
