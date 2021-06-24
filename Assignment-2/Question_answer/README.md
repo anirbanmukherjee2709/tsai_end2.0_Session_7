@@ -57,7 +57,7 @@ Epoch: 35 | Time: 0m 1s
 	Train Loss: 3.403 | Train PPL:  30.068
 	 Test. Loss: 3.651 |  Test. PPL:  38.507
 ```
-As we can see, the model starts from 4.034 test loss and 5.940 train loss which by 35th epoch is:  Test. Loss: 3.651 |  Train Acc: 3.403
+As we can see, the model starts from 4.034 test loss and 5.940 train loss which by 35th epoch is:  Test. Loss: 3.651 |  Train Loss: 3.403
 
 
 ## Results: Perplexity, Loss
